@@ -1,9 +1,5 @@
 ##Libraries used
 - `React` for view components
-- `Redux` for state management
-- `Redux Observable` for managing complex scenarios 
-- `fetch` API polyfill for HTTP requests
-- `Ramda` for Utlity and helper functions
 
 ##Adding a new dependency
 - run `yarn add <Dependency-name> ` in root folder of frontend code where
