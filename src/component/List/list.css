@@ -1,0 +1,17 @@
+.columnStyle {
+  display: inline-block;
+  vertical-align: top;
+  margin-right: 5px;
+  margin-bottom: 5px;
+  padding-left: 5px;
+  padding-top: 0px;
+  width: 230px;
+  text-align: center;
+}
+
+.mouseIsHovering {
+    background-color: #d3d3d3;
+}
+.mouseNotHovering {
+    background-color: #f0eeee;
+}

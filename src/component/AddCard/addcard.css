@@ -1,0 +1,37 @@
+.add-card-form {
+  padding: 10px;
+  width: 100%;
+  background: #f0eeee;
+}
+
+.form-area {
+  margin: 40px;
+  padding: 20px;
+  background: #ffffff;
+}
+.text-area {
+  position: relative;
+}
+.text-area textarea {
+  box-shadow: 6px 4px 6px #ccc;
+  border-radius: 8px;
+  padding: 8px;
+  width: 80%;
+  border: 1px solid #ccc;
+  resize: none;
+}
+
+.display-section {
+  display: inline-block;
+  width: 80%;
+  border: 1px solid #ccc;
+  padding: 8px;
+  box-shadow: 6px 4px 6px #ccc;
+  border-radius: 8px;
+  min-height: 30px;
+}
+
+.button-container {
+  position: absolute;
+  margin-left: 20px;
+}
